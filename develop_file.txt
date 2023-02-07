@@ -1,0 +1,5 @@
+methods:
+a(){play football}
+b(){play tennis}
+c(){play golf}
+d(){play bascketball}
