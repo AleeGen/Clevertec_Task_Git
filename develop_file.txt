@@ -1,5 +1,5 @@
 methods:
 a(){play football}
 b(){play tennis}
-c(){}
-d(){}
+c(){play golf}
+d(){play bascketball}
